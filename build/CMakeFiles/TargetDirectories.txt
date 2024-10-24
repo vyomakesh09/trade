@@ -1,0 +1,4 @@
+/Users/v/trade/build/CMakeFiles/BitMEXHFTBot.dir
+/Users/v/trade/build/CMakeFiles/bitmex_hft_bot.dir
+/Users/v/trade/build/CMakeFiles/edit_cache.dir
+/Users/v/trade/build/CMakeFiles/rebuild_cache.dir
